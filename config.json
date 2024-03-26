@@ -1,0 +1,22 @@
+{
+   "owner": "628981574999",
+   "owner_name": "MOSY",
+   "database": "data",
+   "limit": 15,
+   "ram_limit": "900mb",
+   "max_upload": 150,
+   "max_upload_free": 50,
+   "cooldown": 1,
+   "timer": 180000,
+   "timeout": 1800000,
+   "permanent_threshold": 3,
+   "notify_threshold": 4,
+   "banned_threshold": 5,
+   "blocks": ["994", "91", "92"],
+   "evaluate_chars":  ["=>", "~>", "<", ">", "$"],
+   "pairing": {
+      "state": true,
+      "number": 6289699005480
+   },
+   "replit_url": ""
+}
